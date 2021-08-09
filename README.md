@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheRealDream21
+- 👀 I’m interested in Python, C# and JavaScript.
+- 🌱 I’m currently learning Git and will go learning JavaScript.
+- 💞️ I’m looking to collaborate on Python or C#.
+- 📫 How to reach me Newbeachfound@gmail.com!
